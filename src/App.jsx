@@ -47,7 +47,7 @@ function App() {
         <NavLink to="/catalog">Каталог</NavLink> |
         <NavLink to="/cart">Корзина</NavLink>
       </div>
-
+      <p>--------------------------------</p>
       <Routes>
         <Route
           path="/"
